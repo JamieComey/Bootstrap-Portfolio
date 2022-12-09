@@ -1,4 +1,4 @@
-* h1, h2
+* h1, h2, a:hover
 {
    text-transform: uppercase;
   background-image: linear-gradient(
@@ -21,15 +21,15 @@
 
 }
 
-#hero{
+#hero {
     border-bottom: 10px;
 }
-#me{
+
+#me {
     border: 5px solid #555;
      }
 
-
-#work{
+#work {
     margin-bottom: 25px;
 }
 
@@ -48,7 +48,9 @@
     margin-bottom: 2px;
 }
 
-
+.btn, .btn-primary{
+  box-shadow: 10px 5px 5px rgb(0, 4, 255);
+}
 
 
 
