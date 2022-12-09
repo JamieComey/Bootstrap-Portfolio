@@ -48,10 +48,25 @@
     margin-bottom: 2px;
 }
 
-.btn, .btn-primary{
-  box-shadow: 10px 5px 5px rgb(0, 4, 255);
+.cardContainer {
+  margin-bottom: 5px;
 }
 
+#btn-1{
+  box-shadow:10px 5px 5px red;
+}
+#btn-2{
+  box-shadow:10px 5px 5px orange;
+}
+#btn-3{
+  box-shadow:10px 5px 5px lightskyblue;
+}
+#btn-4{
+  box-shadow:10px 5px 5px green;
+}
+#btn-5{
+  box-shadow:10px 5px 5px lightgoldenrodyellow;
+}
 
 
 @keyframes textclip {
