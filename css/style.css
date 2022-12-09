@@ -38,6 +38,16 @@
 }
 
 
+#socials {
+    display: inline;
+    margin-left: 48%;
+    margin-right: 50%;
+}
+
+
+
+
+
 
 @keyframes textclip {
   to {
